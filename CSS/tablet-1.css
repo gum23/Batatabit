@@ -1,0 +1,12 @@
+.main-table-container{
+    gap: 0;
+    padding: 0;
+}
+
+.left-arrow{
+    display: none;
+}
+
+.right-arrow{
+    display: none;
+}
